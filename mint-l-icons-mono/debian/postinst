@@ -1,0 +1,8 @@
+#!/bin/bash -e
+
+if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-deconfigure" ] || [ "$1" = "abort-remove" ] ; then
+	if which update-icon-caches >/dev/null 2>&1 ; then
+		update-icon-caches /usr/share/icons/Mint-L-Mono /usr/share/icons/Mint-L-Mono-Aqua /usr/share/icons/Mint-L-Mono-Blue /usr/share/icons/Mint-L-Mono-Brown /usr/share/icons/Mint-L-Mono-Grey /usr/share/icons/Mint-L-Mono-Orange /usr/share/icons/Mint-L-Mono-Pink /usr/share/icons/Mint-L-Mono-Purple /usr/share/icons/Mint-L-Mono-Red /usr/share/icons/Mint-L-Mono-Sand /usr/share/icons/Mint-L-Mono-Teal /usr/share/icons/Mint-L-Mono-Yellow
+	fi
+fi
+#DEBHELPER#

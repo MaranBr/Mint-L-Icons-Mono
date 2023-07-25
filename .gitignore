@@ -1,0 +1,12 @@
+*.deb
+*.dsc
+*.build
+*.buildinfo
+*.changes
+*.log
+*.tar.xz
+*.substvars
+debhelper-build-stamp
+mint-l-icons-mono/debian/.debhelper
+mint-l-icons-mono/debian/mint-l-icons-mono
+

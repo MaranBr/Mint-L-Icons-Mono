@@ -1,0 +1,46 @@
+mint-l-icons-mono (1.6.7) devel; urgency=medium
+
+  [ MaranBr ]
+  * Remove obsolete code.
+  * Rename Mint-L to Mint-L-Mono.
+
+ -- MaranBr <maranbr@outlook.com>  Mon, 24 Jul 2023 17:26:30 +0200
+
+mint-l-icons-mono (1.6.6) devel; urgency=medium
+
+  [ MaranBr ]
+  * Re-add fullcolor mono icons.
+
+ -- MaranBr <maranbr@outlook.com>  Wed, 19 Jul 2023 16:19:30 +0200
+
+mint-l-icons-mono (1.6.5) devel; urgency=medium
+
+  [ Michael Webster ]
+  * Add document-new and document-revert color icons.
+  * Add missing 16px fullcolor help icons.
+  * Remove all generic symbolic action icons, and those color icons added in 8777c2a23, 4449605ef.
+  * Add cs-gestures icon.
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 08 Jul 2023 18:39:30 +0200
+
+mint-l-icons-mono (1.6.4) devel; urgency=medium
+
+  [ hduelme ]
+  * General refactoring (#1)
+
+  [ Clement Lefebvre ]
+  * Add definitions for folder-color-switcher
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 03 May 2023 12:27:31 +0100
+
+mint-l-icons-mono (1.6.3) devel; urgency=medium
+
+  * Fix dark themes
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 24 Nov 2022 21:51:09 +0000
+
+mint-l-icons-mono (1.6.2) devel; urgency=medium
+
+  * Legacy theme
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 09 Nov 2022 10:00:00 +0100
