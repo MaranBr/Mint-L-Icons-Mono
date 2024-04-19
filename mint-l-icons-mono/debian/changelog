@@ -1,3 +1,11 @@
+mint-l-icons-mono (1.6.8) devel; urgency=medium
+
+  [ MaranBr ]
+  * Add cs-actions.
+  * Add missing icons from Adwaita's 'legacy' set.
+
+ -- MaranBr <maranbr@outlook.com>  Fri, 19 Apr 2024 13:18:42 +0200
+
 mint-l-icons-mono (1.6.7) devel; urgency=medium
 
   [ MaranBr ]
