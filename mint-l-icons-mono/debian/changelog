@@ -1,3 +1,10 @@
+mint-l-icons-mono (1.6.9) devel; urgency=medium
+
+  [ MaranBr ]
+  * Revert "Add missing icons from Adwaita's 'legacy' set". This breaks icon consistency.
+
+ -- MaranBr <maranbr@outlook.com>  Fri, 19 Apr 2024 14:01:29 +0200
+
 mint-l-icons-mono (1.6.8) devel; urgency=medium
 
   [ MaranBr ]
