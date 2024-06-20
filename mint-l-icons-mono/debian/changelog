@@ -1,3 +1,15 @@
+mint-l-icons-mono (1.7.1) devel; urgency=medium
+
+  [ MaranBr ]
+  * Remove geary.
+  * Remove lollypop.
+  * Remove pitivi.
+  * Remove uberwriter.
+  * Add missing Flatpak app icon links.
+  * Add Kotlin mimetype.
+
+ -- MaranBr <maranbr@outlook.com>  Thu, 20 Jun 2024 10:28:27 +0200
+
 mint-l-icons-mono (1.7.0) devel; urgency=medium
 
   [ MaranBr ]
