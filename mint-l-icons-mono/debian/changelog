@@ -1,3 +1,15 @@
+mint-l-icons-mono (1.7.3) devel; urgency=medium
+
+  [ MaranBr ]
+  * Fix broken XFCE symlinks.
+  * Add aptkit.
+  * Backport missing apps from mint-y-icons.
+  * Add EasyEffects and Proton Pass from mint-y-icons.
+  * Render new icons.
+  * Add symlinks for new icons.
+
+ -- MaranBr <maranbr@outlook.com>  Tue, 27 Nov 2024 10:12:25 +0200
+
 mint-l-icons-mono (1.7.2) devel; urgency=medium
 
   [ MaranBr ]
