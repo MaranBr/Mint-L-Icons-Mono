@@ -629,6 +629,7 @@ minecraft.png <- minecraft-launcher.png
 minitube.png <- org.tordini.flavio.Minitube.png
 mintdrivers.png <- jockey-gtk.png
 mintdrivers.png <- jockey.png
+gitg.png <- mintgit.png
 miro.png <- miro-72x72.png
 miro.png <- miro-browse.png
 miro.png <- miro-guide-source.png
@@ -703,6 +704,8 @@ octave.png <- qoctave.png
 octave.png <- qtoctave.png
 okteta.png <- org.kde.okteta.png
 okular.png <- org.kde.okular.png
+onlyoffice.png <- org.onlyoffice.desktopeditors.png
+onlyoffice.png <- onlyoffice-desktopeditors.png
 openshot.png <- org.openshot.OpenShot.png
 openspades.png <- jp.yvt.OpenSpades.png
 openttd.png <- org.openttd.OpenTTD.png
